@@ -1,9 +1,10 @@
 # 银龄卵护 🥚 / 基于CNN和RNN的多模态生理保护系统
 
+> [!TIP]
 > 此页面基于GitHub Pages部署，您可以通过改变README.md的内容来改变此页面的内容。所有的小工具你都可以在 [https://aibob.top/](https://aibob.top/) 获取 🌐
 
-> [!TIP]
-> 这是一个提示
+> [!NOTE]
+> 如果你需要放置图片，请学习相对路径，并放置在本仓库的img目录下。如果您想使用图床，我们建议您使用 Google Driv e或者 Microsoft OneDrive 作为图床使用，或者使用比较知名并广泛认可的图床，这样会比较稳定。
 
 ## 目的 🎯
 
